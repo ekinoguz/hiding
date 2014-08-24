@@ -1,0 +1,88 @@
+# List of our experiments;
+
+./STA_o.py -a 40 -p 100 -f 43 -t translated_1_1;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_2_1;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_3_1;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_1_2;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_2_2;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_3_2;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_1_3;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_2_3;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_3_3;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_1_4;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_2_4;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_3_4;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_1_5;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_2_5;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_3_5;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_1_6;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_2_6;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_3_6;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_1_7;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_2_7;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_3_7;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_1_8;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_2_8;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_3_8;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_1_9;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_2_9;
+./STA_o.py -a 40 -p 100 -f 43 -t translated_3_9;
+./STA_o.py -a 40 -p 100 -f 43 -t fixed_test-5;
+./STA_o.py -a 40 -p 100 -f 43 -t fixed_rewritten-5;
+./STA_o.py -a 40 -p 100 -f 43 -t fixed_translate-5-fixed;
+./STA_o.py -a 40 -p 100 -f 43 -t fixed_fold-1-languages-9-test-5;
+./STA_o.py -a 40 -p 100 -f 43 -t fixed_fold-2-languages-9-test-5;
+./STA_o.py -a 40 -p 100 -f 43 -t fixed_fold-3-languages-9-test-5;
+./STA_o.py -a 40 -p 100 -f 43 -t fixed_fold-1-languages-3-test-5;
+./STA_o.py -a 40 -p 100 -f 43 -t fixed_fold-2-languages-3-test-5;
+./STA_o.py -a 40 -p 100 -f 43 -t fixed_fold-3-languages-3-test-5;
+./STA_o.py -a 40 -p 100 -f 43 -t fixed_fold-1-languages-6-test-5;
+./STA_o.py -a 40 -p 100 -f 43 -t fixed_fold-2-languages-6-test-5;
+./STA_o.py -a 40 -p 100 -f 43 -t fixed_fold-3-languages-6-test-5;
+
+
+./STA_o.py -a 100 -p 100 -f 43 -t test -v 3;
+./STA_o.py -a 250 -p 100 -f 43 -t test -v 3;
+./STA_o.py -a 500 -p 100 -f 43 -t test -v 3;
+./STA_o.py -a 750 -p 100 -f 43 -t test -v 3;
+./STA_o.py -a 1000 -p 100 -f 43 -t test -v 3;
+./STA_o.py -a 100 -p 100 -f 43 -t rewritten -v 3;
+./STA_o.py -a 250 -p 100 -f 43 -t rewritten -v 3;
+./STA_o.py -a 500 -p 100 -f 43 -t rewritten -v 3;
+./STA_o.py -a 750 -p 100 -f 43 -t rewritten -v 3;
+./STA_o.py -a 1000 -p 100 -f 43 -t rewritten -v 3;
+
+./STA_o.py -a 100 -p 100 -f 43 -t fixed_test-5;
+./STA_o.py -a 100 -p 100 -f 43 -t fixed_rewritten-5;
+./STA_o.py -a 100 -p 100 -f 43 -t fixed_translate-5-fixed;
+./STA_o.py -a 100 -p 100 -f 43 -t fixed_fold-1-languages-9-test-5;
+./STA_o.py -a 100 -p 100 -f 43 -t fixed_fold-2-languages-9-test-5;
+./STA_o.py -a 100 -p 100 -f 43 -t fixed_fold-3-languages-9-test-5;
+
+./STA_o.py -a 250 -p 100 -f 43 -t fixed_test-5;
+./STA_o.py -a 250 -p 100 -f 43 -t fixed_rewritten-5;
+./STA_o.py -a 250 -p 100 -f 43 -t fixed_translate-5-fixed;
+./STA_o.py -a 250 -p 100 -f 43 -t fixed_fold-1-languages-9-test-5;
+./STA_o.py -a 250 -p 100 -f 43 -t fixed_fold-2-languages-9-test-5;
+./STA_o.py -a 250 -p 100 -f 43 -t fixed_fold-3-languages-9-test-5;
+
+./STA_o.py -a 500 -p 100 -f 43 -t fixed_test-5;
+./STA_o.py -a 500 -p 100 -f 43 -t fixed_rewritten-5;
+./STA_o.py -a 500 -p 100 -f 43 -t fixed_translate-5-fixed;
+./STA_o.py -a 500 -p 100 -f 43 -t fixed_fold-1-languages-9-test-5;
+./STA_o.py -a 500 -p 100 -f 43 -t fixed_fold-2-languages-9-test-5;
+./STA_o.py -a 500 -p 100 -f 43 -t fixed_fold-3-languages-9-test-5;
+
+./STA_o.py -a 750 -p 100 -f 43 -t fixed_test-5;
+./STA_o.py -a 750 -p 100 -f 43 -t fixed_rewritten-5;
+./STA_o.py -a 750 -p 100 -f 43 -t fixed_translate-5-fixed;
+./STA_o.py -a 750 -p 100 -f 43 -t fixed_fold-1-languages-9-test-5;
+./STA_o.py -a 750 -p 100 -f 43 -t fixed_fold-2-languages-9-test-5;
+./STA_o.py -a 750 -p 100 -f 43 -t fixed_fold-3-languages-9-test-5;
+
+./STA_o.py -a 1000 -p 100 -f 43 -t fixed_test-5;
+./STA_o.py -a 1000 -p 100 -f 43 -t fixed_rewritten-5;
+./STA_o.py -a 1000 -p 100 -f 43 -t fixed_translate-5-fixed;
+./STA_o.py -a 1000 -p 100 -f 43 -t fixed_fold-1-languages-9-test-5;
+./STA_o.py -a 1000 -p 100 -f 43 -t fixed_fold-2-languages-9-test-5;
+./STA_o.py -a 1000 -p 100 -f 43 -t fixed_fold-3-languages-9-test-5;

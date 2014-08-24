@@ -1,0 +1,13 @@
+.properties
+mturk.properties
+*.class
+
+# Package Files #
+*.war
+*.ear
+.DS_Store
+
+# bin folder
+bin/
+
+*.pyc
